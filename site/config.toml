@@ -6,7 +6,7 @@ title = "StatusKit"
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "/images/recent.svg"
+  defaultLogo = "/images/icon-large-ok.svg"
   faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
